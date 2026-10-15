@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="projects_title">پروژه‌ها</string>
+    <string name="projects_about">درباره</string>
+    <string name="projects_empty_title">هنوز پروژه‌ای ندارید</string>
+    <string name="projects_empty_description">پروژه‌های شما اینجا نمایش داده می‌شوند.</string>
+</resources>

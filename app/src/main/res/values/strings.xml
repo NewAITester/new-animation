@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">RigToon</string>
+    <string name="about_title">About RigToon</string>
+    <string name="action_back">Back</string>
+    <string name="about_description">Design 2D characters and bring them to life with skeletal animation.</string>
+    <string name="about_version">Version %1$s</string>
+</resources>

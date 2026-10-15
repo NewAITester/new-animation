@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_title">دربارهٔ RigToon</string>
+    <string name="action_back">بازگشت</string>
+    <string name="about_description">کاراکتر دوبعدی طراحی کنید و با انیمیشن اسکلتی به آن جان بدهید.</string>
+    <string name="about_version">نسخهٔ %1$s</string>
+</resources>

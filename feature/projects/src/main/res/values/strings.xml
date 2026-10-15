@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="projects_title">Projects</string>
+    <string name="projects_about">About</string>
+    <string name="projects_empty_title">No projects yet</string>
+    <string name="projects_empty_description">Your projects will appear here.</string>
+</resources>
